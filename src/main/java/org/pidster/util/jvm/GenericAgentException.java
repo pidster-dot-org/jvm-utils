@@ -21,7 +21,7 @@ package org.pidster.util.jvm;
 
 
 /**
- * @author <a href="http://pidster.com/">pidster</a>
+ * @author <a href="http://pidster.org/">pidster</a>
  *
  */
 public class GenericAgentException extends RuntimeException {
